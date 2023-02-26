@@ -1,0 +1,46 @@
+main {
+    font-family: STIX Two Text;
+    height: 987px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: STIX Two Text;
+}
+
+.abc {
+    position: absolute;
+    top: 409px;
+    left: 796px;
+    font-size: 55px;
+}
+
+.aaa {
+    font-size: 40px;
+    margin-top: 55px;
+    margin-left: 786px  ;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+}
+
+input {
+    margin: 10px 0;
+    padding: 10px;
+    border-color: #352F2F;
+    border-width: 1px;
+    border-radius: 20px;
+    font-size: 30px;
+    font-family: STIX Two Text;
+    color: #AEACAC;
+}
+
+button {
+    border: unset;
+    color: #352F2F;
+    background-color: white;
+    font-family: STIX Two Text;
+    font-size: 35px;
+}

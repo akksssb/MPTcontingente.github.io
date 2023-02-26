@@ -1,0 +1,290 @@
+.header {
+	position: absolute;
+	font-family: "STIX Two Text";
+	color: #FFFFFF;
+	font-size: 20px;
+}
+
+.aaa {
+    margin-top: 51px;
+    margin-left: 162px;
+	font-family: "STIX Two Text";
+	font-size: 40px;
+}
+
+.vihod {
+    top: 60px;
+	left: 1716px;
+	position: absolute;
+}
+
+body {
+    font-family: "STIX Two Text";
+	color: #FFFFFF;
+    background: url('img/баннерработа.svg')  no-repeat;
+}
+
+.bac {
+    font-weight: bold;
+    font-size: 40px;
+    color: #352F2F;
+    position: absolute;
+    top: 201px;
+    left: 170px;
+}
+
+.otziv {
+    position: absolute;
+    top: 351px;
+    left: 170px;
+    color: #352F2F;
+    font-size: 35px;
+}
+
+.back {
+    position: absolute;
+    top: 417px;
+    left: 145px;
+}
+
+.raz form {
+    position: absolute;
+    top: 463px;
+    left: 200px;
+    display: flex;
+    flex-direction: column;
+    width: 570px;
+}
+
+.raz input {
+    margin: 10px 0;
+    padding: 10px;
+    border-color: #352F2F;
+    border-width: 1px;
+    border-radius: 20px;
+    font-size: 30px;
+    font-family: STIX Two Text;
+    color: #868282;
+}
+
+.dva form {
+    position: absolute;
+    top: 567px;
+    left: 200px;
+    display: flex;
+    flex-direction: column;
+    width: 570px;
+    height: 480px;
+}
+
+.dva input {
+    margin: 10px 0;
+    padding: 10px;
+    border-color: #352F2F;
+    border-width: 1px;
+    border-radius: 20px;
+    font-size: 30px;
+    font-family: STIX Two Text;
+    color: #868282;
+}
+
+.form-inner input, .form-inner textarea {
+    display: block;
+    width: 100%;
+    padding: 0 20px;
+    margin-bottom: 10px;
+    background: #E9EFF6;
+    line-height: 40px;
+    border-width: 0;
+    border-radius: 20px;
+    font-family: 'STIX Two Text';
+ }
+
+.eee {
+    position: absolute;
+    top: 1087px;
+    left: 379px;
+}
+
+.popup {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(53, 47, 47, 0.8);
+    top: 0;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.popup_body {
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 10px;
+}
+
+.popup_content {
+    background-color: white;
+    color: #352F2F;
+    font-size: 35px;
+    max-width: 800px;
+    padding: 30px;
+    border-radius: 30px;
+    position: relative;
+}
+
+.popup_close {
+    position: absolute;
+    right: 30px;
+    top: 10px;
+    font-size: 30px;
+    color: #352F2F;
+}
+
+.popup:target {
+    opacity: 1;
+    visibility: visible;
+}
+
+.vakansii {
+    position: absolute;
+    top: 351px;
+    left: 1112px;
+    color: #352F2F;
+    font-size: 35px;
+}
+
+.gfgdf {
+    position: absolute;
+    top: 414px;
+    left: 1090px;
+}
+
+.tri form {
+    position: absolute;
+    top: 463px;
+    left: 1150px;
+    display: flex;
+    flex-direction: column;
+    width: 570px;
+    height: 480px;
+}
+
+.tri input {
+    margin: 10px 0;
+    padding: 10px;
+    border-color: #352F2F;
+    border-width: 1px;
+    border-radius: 20px;
+    font-size: 30px;
+    font-family: STIX Two Text;
+    color: #868282;
+}
+
+.chetiri form {
+    position: absolute;
+    top: 564px;
+    left: 1150px;
+    display: flex;
+    flex-direction: column;
+    width: 570px;
+    height: 480px;
+}
+
+.chetiri input {
+    margin: 10px 0;
+    padding: 10px;
+    border-color: #352F2F;
+    border-width: 1px;
+    border-radius: 20px;
+    font-size: 30px;
+    font-family: STIX Two Text;
+    color: #868282;
+}
+
+.pomnite {
+    color: #9B8686;
+    font-size: 15px;
+    position: absolute;
+    top: 682px;
+    left: 1195px;
+}
+
+.bbb {
+    position: absolute;
+    top: 725px;
+    left: 1350px;
+}
+
+.zvezda {
+    position: absolute;
+    top: 840px;
+    left: 1114px;
+    color: #352F2F;
+    font-size: 35px;
+}
+
+.bsd {
+    position: absolute;
+    top: 890px;
+    left: 1090px;
+}
+
+.pyat form {
+    position: absolute;
+    top: 934px;
+    left: 1151px;
+    display: flex;
+    flex-direction: column;
+    width: 570px;
+    height: 480px;
+}
+
+.pyat input {
+    margin: 10px 0;
+    padding: 10px;
+    border-color: #352F2F;
+    border-width: 1px;
+    border-radius: 20px;
+    font-size: 30px;
+    font-family: STIX Two Text;
+    color: #868282;
+}
+
+.zvezdaraz {
+    position: absolute;
+    top: 1032px;
+    left: 1289px;
+}
+
+.zvezdadva {
+    position: absolute;
+    top: 1032px;
+    left: 1349px;
+}
+
+.zvezdatri {
+    position: absolute;
+    top: 1032px;
+    left: 1409px;
+}
+
+.zvezdachetiri {
+    position: absolute;
+    top: 1032px;
+    left: 1469px;
+}
+
+.zvezdapyat {
+    position: absolute;
+    top: 1032px;
+    left: 1529px;
+}
+
+.bvc {
+    position: absolute;
+    top: 1120px;
+    left: 1330px;
+}

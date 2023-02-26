@@ -1,0 +1,368 @@
+.header {
+	position: absolute;
+	font-family: "STIX Two Text";
+	color: #FFFFFF;
+	font-size: 20px;
+}
+
+.aaa {
+    margin-top: 51px;
+    margin-left: 162px;
+	font-family: "STIX Two Text";
+	font-size: 40px;
+}
+
+.vhod {
+    top: 60px;
+	left: 1716px;
+	position: absolute;
+}
+
+body {
+    font-family: "STIX Two Text";
+	color: #FFFFFF;
+    background: url('img/баннерстудент.svg')  no-repeat;
+}
+
+.lichie {
+    font-size: 40px;
+    color: #352F2F;
+    position: absolute;
+    top: 201px;
+    left: 170px;
+}
+
+.backimg {
+    position: absolute;
+    top: 301px;
+}
+
+
+.hfg {
+    color: #352F2F;
+    position: absolute;
+    font-size: 25px;
+    top: 375px;
+    left: 305px;
+}
+
+.select_special {
+    position: absolute;
+    top: 423px;
+    left: 302px;
+    appearance: none;
+    padding: 8px 55px 8px 55px;
+    color: #352F2F;
+    font-size: 25px;
+    font-family: "STIX Two Text";
+    border-radius: 50px;
+    border-color: #352F2F;
+}
+
+.aet {
+    color: #352F2F;
+    position: absolute;
+    font-size: 25px;
+    top: 502px;
+    left: 305px;
+}
+
+.select_trydoystoristvo {
+    position: absolute;
+    top: 550px;
+    left: 302px;
+    appearance: none;
+    padding: 8px 55px 8px 55px;
+    color: #352F2F;
+    font-size: 25px;
+    font-family: "STIX Two Text";
+    border-radius: 50px;
+    border-color: #352F2F;
+}
+
+.nbc {
+    color: #352F2F;
+    position: absolute;
+    font-size: 25px;
+    top: 502px;
+    left: 970px;
+}
+
+.select_obychenie {
+    position: absolute;
+    top: 550px;
+    left: 966px;
+    appearance: none;
+    padding: 8px 55px 8px 55px;
+    color: #352F2F;
+    font-size: 25px;
+    font-family: "STIX Two Text";
+    border-radius: 50px;
+    border-color: #352F2F;
+}
+
+.bbb {
+    color: #352F2F;
+    position: absolute;
+    font-size: 25px;
+    top: 629px;
+    left: 305px;
+}
+
+.select_slyshba {
+    position: absolute;
+    top: 677px;
+    left: 305px;
+    appearance: none;
+    padding: 8px 26px 8px 26px;
+    color: #352F2F;
+    font-size: 25px;
+    font-family: "STIX Two Text";
+    border-radius: 50px;
+    border-color: #352F2F;
+}
+
+.ссс {
+    color: #352F2F;
+    position: absolute;
+    font-size: 25px;
+    top: 756px;
+    left: 305px;
+}
+
+.select_vremennaya {
+    position: absolute;
+    top: 804px;
+    left: 305px;
+    appearance: none;
+    padding: 8px 26px 8px 26px;
+    color: #352F2F;
+    font-size: 25px;
+    font-family: "STIX Two Text";
+    border-radius: 50px;
+    border-color: #352F2F;
+}
+
+.jjj {
+    color: #352F2F;
+    position: absolute;
+    font-size: 25px;
+    top: 756px;
+    left: 850px;
+}
+
+.select_nerabotaet {
+    position: absolute;
+    top: 804px;
+    left: 850px;
+    appearance: none;
+    padding: 8px 26px 8px 26px;
+    color: #352F2F;
+    font-size: 25px;
+    font-family: "STIX Two Text";
+    border-radius: 50px;
+    border-color: #352F2F;
+}
+
+.rrr {
+    color: #352F2F;
+    position: absolute;
+    font-size: 25px;
+    top: 883px;
+    left: 305px;
+}
+
+.select_pereezd {
+    position: absolute;
+    top: 931px;
+    left: 305px;
+    appearance: none;
+    padding: 8px 26px 8px 26px;
+    color: #352F2F;
+    font-size: 25px;
+    font-family: "STIX Two Text";
+    border-radius: 50px;
+    border-color: #352F2F;
+}
+
+.ooo {
+    color: #352F2F;
+    position: absolute;
+    font-size: 25px;
+    top: 883px;
+    left: 850px;
+}
+
+.select_registr {
+    position: absolute;
+    top: 931px;
+    left: 850px;
+    appearance: none;
+    padding: 8px 26px 8px 26px;
+    color: #352F2F;
+    font-size: 25px;
+    font-family: "STIX Two Text";
+    border-radius: 50px;
+    border-color: #352F2F;
+}
+
+.zveback {
+    position: absolute;
+    top: 1140px;
+    left: 162px;
+}
+
+.abc {
+    color: #352F2F;
+    font-size: 35px;
+    position: absolute;
+    top: 1202px;
+    left: 650px;
+}
+
+.bca {
+    color: #C5A75B;
+    font-size: 35px;
+    position: absolute;
+    top: 1202px;
+    left: 942px;
+}
+
+.lad {
+    color: #352F2F;
+    font-size: 35px;
+    position: absolute;
+    top: 1202px;
+    left: 1050px;
+}
+
+.fsf {
+    position: absolute;
+    top: 1345px;
+    left: 101px;
+}
+
+.baza {
+    position: absolute;
+    font-size: 25px;
+    color: #352F2F;
+    top: 1391px;
+    left: 217px;
+}
+
+.textbaza {
+    color: #352F2F;
+    font-size: 25px;
+    position: absolute;
+    top: 1442px;
+    left: 162px;
+    right: 1270px;
+}
+
+.knopkaraz {
+    position: absolute;
+    top: 1842px;
+    left: 280px;
+}
+
+.ads {
+    position: absolute;
+    top: 1345px;
+    left: 697px;
+}
+
+.tehnic {
+    position: absolute;
+    font-size: 25px;
+    color: #352F2F;
+    top: 1391px;
+    left: 825px;
+    right: 785px;
+}
+
+.texttehnic {
+    color: #352F2F;
+    font-size: 25px;
+    position: absolute;
+    top: 1496px;
+    left: 774px;
+    right: 684px;
+}
+
+.knopkdva {
+    position: absolute;
+    top: 1842px;
+    left: 875px;
+}
+
+.poi {
+    position: absolute;
+    top: 1345px;
+    left: 1293px;
+}
+
+.pomozhik {
+    position: absolute;
+    font-size: 25px;
+    color: #352F2F;
+    top: 1391px;
+    left: 1441px;
+    right: 189px;
+}
+
+.textpomozhik {
+    color: #352F2F;
+    font-size: 25px;
+    position: absolute;
+    top: 1477px;
+    left: 1362px;
+    right: 72px;
+}
+
+.knoptri {
+    position: absolute;
+    top: 1842px;
+    left: 1478px;
+}
+
+.popup {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(53, 47, 47, 0.8);
+    top: 0;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.popup_body {
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 10px;
+}
+
+.popup_content {
+    background-color: white;
+    color: #352F2F;
+    font-size: 35px;
+    max-width: 800px;
+    padding: 30px;
+    border-radius: 30px;
+    position: relative;
+}
+
+.popup_close {
+    position: absolute;
+    right: 30px;
+    top: 10px;
+    font-size: 30px;
+    color: #352F2F;
+}
+
+.popup:target {
+    opacity: 1;
+    visibility: visible;
+}
